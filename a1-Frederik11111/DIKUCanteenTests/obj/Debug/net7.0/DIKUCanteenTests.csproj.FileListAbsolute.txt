@@ -1,0 +1,7 @@
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.csproj.AssemblyReference.cache
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.AssemblyInfoInputs.cache
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.AssemblyInfo.cs
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.csproj.CoreCompileInputs.cache
+/Users/frederikm/Library/CloudStorage/OneDrive-UniversityofCopenhagen/C#/A1/a1-Frederik11111/DIKUCanteenTests/obj/Debug/net7.0/DIKUCanteenTests.sourcelink.json
