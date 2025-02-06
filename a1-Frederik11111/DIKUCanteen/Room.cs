@@ -1,5 +1,11 @@
+using System.Reflection.Emit;
+
 namespace DIKUCanteen;
 
 public class Room{
-  // // Add code here
+  public string Name { get; }
+  public Room(string name)
+  {
+      Name = name;
+  }
 }
