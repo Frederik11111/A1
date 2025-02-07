@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIKUCanteenTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b89589ce90664e274a27e9276a80f5ec76f8f2c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e932506e95f4a1405311e789c3a0f30e51060a0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIKUCanteenTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIKUCanteenTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
